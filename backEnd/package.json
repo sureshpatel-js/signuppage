@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "SureshPatel",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express.js": "^1.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.2"
+  },
+  "engines": {
+    "node": "14.15.5"
+  }
+}
